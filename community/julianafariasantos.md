@@ -46,3 +46,54 @@
 Transformar ideias em **soluções tecnológicas eficientes**, sempre unindo minha visão estratégica de negócios à minha atuação técnica como desenvolvedora.  
 
 📍 **São Bernardo do Campo - SP** | 💼 Aberta a novos desafios na área de Desenvolvimento de Software
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th>Comando Git</th>
+      <th>O que faz</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>git clone &lt;url&gt;</code></td>
+      <td>Clona um repositório remoto para o seu computador</td>
+    </tr>
+    <tr>
+      <td><code>git status</code></td>
+      <td>Mostra o estado atual do repositório (arquivos modificados, staged, etc)</td>
+    </tr>
+    <tr>
+      <td><code>git add &lt;arquivo&gt;</code></td>
+      <td>Adiciona arquivos à área de stage para o próximo commit</td>
+    </tr>
+    <tr>
+      <td><code>git commit -m "mensagem"</code></td>
+      <td>Salva as mudanças staged no histórico com uma mensagem</td>
+    </tr>
+    <tr>
+      <td><code>git push</code></td>
+      <td>Envia seus commits locais para o repositório remoto</td>
+    </tr>
+    <tr>
+      <td><code>git pull</code></td>
+      <td>Atualiza seu repositório local com as mudanças do remoto</td>
+    </tr>
+    <tr>
+      <td><code>git branch</code></td>
+      <td>Lista, cria ou deleta branches (ramificações)</td>
+    </tr>
+    <tr>
+      <td><code>git checkout &lt;branch&gt;</code></td>
+      <td>Troca para outra branch (ou para um commit específico)</td>
+    </tr>
+    <tr>
+      <td><code>git merge &lt;branch&gt;</code></td>
+      <td>Une a branch especificada na branch atual</td>
+    </tr>
+    <tr>
+      <td><code>git log</code></td>
+      <td>Mostra o histórico de commits do repositório</td>
+    </tr>
+  </tbody>
+</table>
